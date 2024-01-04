@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin! 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1ABC9C&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+Developer;Creating+awesome+things+here!">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=4CF727&random=false&width=435&lines=Welcome+to+my+Github+Profile!;It+is+home+to+my+passion+projects!;I+look+forward+to+working+with+you!" alt="Typing SVG" /></a>
 </p>
 
 ## About Me
